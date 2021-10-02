@@ -1,5 +1,4 @@
 # Publications
-In this repo, you will find some of the publications that I have done during my career.
 
 
 
