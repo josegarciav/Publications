@@ -5,5 +5,5 @@
 
 [2] García, J., Romero, A. "Martingale applications in stochastic integration". 2021. Available online: https://drive.google.com/file/d/1c9oLuLpMDvz_HLXWkPnVcStFOhaip9WW/view?usp=sharing
 
-[3] García, J., Guerrero, B., Bairan, O., Acosta-Humánez, P. "Hamiltonian of the Black-Scholes-Merton equation". 2021. Available online: https://drive.google.com/file/d/1L_VN1_PDGqWTeAEbACt7ozxOjAIN2Wsi/view?usp=sharing
+[3] García, J., Guerrero, B., Bairan, O., Acosta-Humánez, P. "Hamiltonian of the Black-Scholes-Merton equation". 2021. Available online: https://drive.google.com/file/d/1JV1bnDAtQakwkHUyYv7yxIqI7wZTawfm/view?usp=sharing
 
